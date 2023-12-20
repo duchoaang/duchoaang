@@ -3,21 +3,19 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duchoaang&label=Profile%20views&color=0e75b6&style=flat" alt="duchoaang" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=duchoaang&label=Profile%20views&color=0e75b6&style=flat" alt="duchoaang" />
+</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duchoaang&show_icons=true&locale=en&layout=compact" alt="duchoaang" /></p>
-
-
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duchoaang&show_icons=true&locale=en&layout=compact" alt="duchoaang" />
+</p>
 
 <br/>
 
-- 🌱 I’m currently learning **Java Spring Boot, Python Flask**
-
-- 👨‍💻 All of my projects are available at [portfolio_duchoaang](portfolio_duchoaang)
-
-- 📫 How to reach me **hoangbrato@gmail.com**
-
+<p>- 🌱 I’m currently learning <strong>Java Spring Boot, Python Flask</strong></p>
+<p>- 👨‍💻 All of my projects are available at <a href="https://portfolio-ndh.netlify.app/">portfolio_duchoaang</a></p>
+<p>- 📫 How to reach me <strong>hoangbrato@gmail.com</strong></p>
 
 
 
